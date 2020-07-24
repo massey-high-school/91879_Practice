@@ -47,6 +47,12 @@
             <a href="contact.html">Contact</a>
         </div>    <!-- / nav -->        
         
+        <div class="box side">
+        
+            Side bar / search goes here
+            
+        </div>
+        
         <div class="box main">
             <h2>First Page heading</h2>
             
